@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CareerHub.API/CareerHub.API.csproj" />
+    <Project Path="src/CareerHub.Application/CareerHub.Application.csproj" />
+    <Project Path="src/CareerHub.Domain/CareerHub.Domain.csproj" />
+    <Project Path="src/CareerHub.Infrastructure/CareerHub.Infrastructure.csproj" />
+    <Project Path="src/CareerHub.SharedKernel/CareerHub.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CareerHub.Application.Tests/CareerHub.Application.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,17 @@
+# Normalize line endings
+* text=auto eol=lf
+*.cs text eol=lf
+*.ts text eol=lf
+*.html text eol=lf
+*.scss text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
+*.sln text eol=lf
+*.csproj text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.ico binary
+*.pdf binary
